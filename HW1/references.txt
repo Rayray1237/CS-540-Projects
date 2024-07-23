@@ -1,0 +1,4 @@
+References
+Cunneen, M., Mullins, M., & Murphy, F. (2019). Autonomous Vehicles and Embedded Artificial Intelligence: The Challenges of Framing Machine Driving Decisions. Applied Artificial Intelligence, 33(8), 706-731. https://doi.org/10.1080/08839514.2019.1600301
+Hauer, T. (2022). Importance and limitations of AI ethics in contemporary society. Humanities And Social Sciences Communications, 9(1). https://doi.org/10.1057/s41599-022-01300-7
+Losbichler, H., & Lehner, O. (2021). Limits of artificial intelligence in controlling and the ways forward: a call for future accounting research. Journal Of Applied Accounting Research, 22(2), 365-382. https://doi.org/10.1108/jaar-10-2020-0207

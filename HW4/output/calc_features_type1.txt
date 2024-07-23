@@ -1,0 +1,5 @@
+Output:
+<class 'numpy.ndarray'>
+
+Solution:
+<class 'numpy.ndarray'>
